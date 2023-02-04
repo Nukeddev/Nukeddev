@@ -2,8 +2,8 @@
 
 
 
-- Hi, I'm Sebastian, better known as Sebstn
-- I'm 18 years old, I am a student of Systems Engineering
+- Hi, I'm Sebastian, better known as Polisheddd
+- I'm 19 years old, I am a student of Systems Engineering
 - I'm currently learning **HTML** and **Java**
 - Below are my networks, in case you want to contact me
 
