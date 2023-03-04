@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" href="twitter.com/SebstnPulido" />
+    <a href="https://twitter.com/sebstnpulido/">Twitter</a>
     <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
     <a href="https://instagram.com/sebstnp">Instagram</a>
     <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
@@ -13,13 +13,7 @@
     <a>Sebstn#8675</a>
 </p>
 
-**Projects:**
-
-- 💻 Space Web Template - Web template for commercial or personal uses (Private)
-- 💻 SpaceBlock - A Minecraft Network based on Minigames, PvP and PvE (Personal project (CLOSED))
-- 💻 SP Solutions - Company dedicated to the sale of hosting, private and shared servers. (Personal project)
-
-**Jobs:**
+## Job´s
 
 - 💼 FenixPvP - CEO (Server Closed) | mc.fenixpvp.us
 - 💼 SpaceBlock - CEO (Server Closed) | mc.spaceblock.us
