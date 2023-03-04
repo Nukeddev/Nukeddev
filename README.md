@@ -1,17 +1,17 @@
-![](https://pbs.twimg.com/media/FcBEq4qXEAEy-c2?format=jpg&name=medium)
+<h1 align="center">
+    <tt>> start.sh</tt>
+    <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="35" />
+</h1>
 
-
-
-- Hi, I'm Sebastian, better known as Polisheddd
-- I'm 19 years old, I am a student of Systems Engineering
-- I'm currently learning **HTML** and **Java**
-- Below are my networks, in case you want to contact me
-
-**Contact:**
-
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SebstnPulido)
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Sebstn#8675)
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/sebstnpulido)
+<p align="center">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" href="twitter.com/SebstnPulido" />
+    <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
+    <a href="https://instagram.com/sebstnp">Instagram</a>
+    <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
+    <a href="https://sebastian.tech">Website</a>
+    <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
+    <a>Sebstn#8675</a>
+</p>
 
 **Projects:**
 
