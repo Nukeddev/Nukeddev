@@ -16,5 +16,5 @@
 ## Job´s
 
 - 💼 Altercado Dev-blog - Personal blog | sebastianpulido.me
-- 💼 Narwell Network - Developer and Configurator | mc.narwell.us
+- 💼 Narwell Network - Developer and Configurator | mc.narwell.us </br>
 *(I currently work at Narwell Network)*
