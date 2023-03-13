@@ -15,8 +15,6 @@
 
 ## Job´s
 
-- 💼 FenixPvP - CEO (Server Closed) | mc.fenixpvp.us
-- 💼 SpaceBlock - CEO (Server Closed) | mc.spaceblock.us
-- 💼 HyCraft Network - Administrator (Retired) | mc.hycraft.us
+- 💼 Altercado Dev-blog - Personal blog | sebastianpulido.me
 - 💼 Narwell Network - Developer and Configurator | mc.narwell.us
 *(I currently work at Narwell Network)*
