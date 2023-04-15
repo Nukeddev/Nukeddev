@@ -8,9 +8,9 @@
     <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
     <a href="https://instagram.com/sebstnp">Instagram</a>
     <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
-    <a href="https://sebastian.tech">Website</a>
+    <a href="https://sebastianpulido.me">Website</a>
     <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
-    <a>Sebstn#8675</a>
+    <a>Sebastián.#0009</a>
 </p>
 
 ## Job´s
