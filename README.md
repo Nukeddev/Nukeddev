@@ -1,20 +1,35 @@
-<h1 align="center">
-    <tt>> start.sh</tt>
-    <img src="https://media.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif" width="35" />
+<h1>
+    <tt>💻> start.sh _</tt>
 </h1>
 
-<p align="center">
+<p>
     <a href="https://twitter.com/sebstnpulido/">Twitter</a>
     <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
     <a href="https://instagram.com/sebstnp">Instagram</a>
     <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
     <a href="https://sebastianpulido.me">Website</a>
-    <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
-    <a>Sebastián.#0009</a>
 </p>
 
-## Job´s
+<h1>
+<tt>👨‍💻> About me</tt>
+</h1>
 
-- 💼 Personal blog | sebastianpulido.me
+Hi, my name is Sebastian, also known as Sebstn.
+
+I'm originally from Colombia and I'm 19 years old, I'm currently studying the career of Systems Engineer, I really like everything related to programming, I'm also interested in Web Development, this last one I like a lot more.
+
+I keep learning more about programming and my professional career.
+At the moment I handle some basic languages of programming and web development, such as:
+- Java
+- Python
+- JavaScript
+- CSS
+- HTML
+
+<h1>
+<tt>💼> Jobs</tt>
+</h1>
+
+- 💼 Personal Project | SCodes
 - 💼 Narwell Network - Developer and Configurator | mc.narwell.us </br>
 *(I currently work at Narwell Network)*
