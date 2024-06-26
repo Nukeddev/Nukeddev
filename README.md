@@ -1,33 +1,16 @@
-<h1>
-    <tt>💻> start.sh _</tt>
-</h1>
-
-<p>
-    <a href="https://twitter.com/sebstnpp/">X</a>
-    <img src="https://media.giphy.com/media/P53PdzXFt2cpKSRFmK/giphy.gif" width="15" />
-    <a href="https://instagram.com/sebstnp">Instagram</a>
+<p align="center">
+    <img align="center" width="200" src="https://github.com/Nukeddev/Nukeddev/assets/109694252/776140b3-047f-416e-94c0-5b6d5f11d509" />
+    <h3 align="center" width="25" >¡Hey 👋! Soy Nukedev <img align="center" width="15" src="https://video-public.canva.com/VAFAiMSzymo/v/20b689ac5a.gif" /> </h3> 
 </p>
 
-<h1>
-<tt>👨‍💻> About me</tt>
-</h1>
-
-Hi, my name is Sebastian, also known as Nuked.
-
-I'm originally from Colombia and I'm 19 years old, I'm currently studying the career of Systems Engineer, I really like everything related to programming, I'm also interested in Web Development, this last one I like a lot more.
-
-I keep learning more about programming and my professional career.
-At the moment I handle some basic languages of programming and web development, such as:
-- Java
-- Python
-- JavaScript
-- CSS
-- HTML
-
-<h1>
-<tt>📊> Stats</tt>
-</h1>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukeddev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Nukeddev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nukeddev&theme=dark&hide_border=false)
+<p align="center">
+    <span style="width: 8px;"> </span>
+  <a href="https://instagram.com/midu.dev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram de Nukedev" height="23px" width="23px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://twitter.com/midudev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Twitter de Nukedev" height="23px" width="28px" />
+  </a>
+</p>
+</p>
