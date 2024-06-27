@@ -4,5 +4,5 @@
     <tt>💻> start.sh _</tt>
 </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Nukeddev&hide=issues,contribs&theme=dark&hide_border=false&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukeddev&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nukeddev&hide=issues,contribs&theme=dark&hide_border=false&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukeddev&theme=dark&layout=compact)
 
